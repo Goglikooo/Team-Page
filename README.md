@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://rawcdn.githack.com/Goglikooo/Team-Page/952504ef010e24817af22bc3b95593c06268908e/My%20team%20page.html}">
+    <a href="https://https://rawcdn.githack.com/Goglikooo/Team-Page/952504ef010e24817af22bc3b95593c06268908e/My%20team%20page.html">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/Goglikooo/Team-Page/blob/main/My%20team%20page.html}">
+    <a href="https://https://github.com/Goglikooo/Team-Page/blob/main/My%20team%20page.html">
       Solution
     </a>
     <span> | </span>
@@ -31,5 +31,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@goglikooo](https://{github.com/Goglikooo})
+- GitHub [@goglikooo](https://{github.com/Goglikooo)
 
